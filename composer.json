@@ -10,6 +10,7 @@
         "laravel/framework": "^13.8",
         "laravel/tinker": "^3.0",
         "lrjohnst/laravel-ai-studio-chat": "@dev",
+        "lrjohnst/laravel-ui-theme": "@dev",
         "lucasjohnston/laravel-sso": "@dev"
     },
     "require-dev": {
@@ -93,6 +94,10 @@
         {
             "type": "path",
             "url": "/home/lrjohnst/repositories/packages/laravel-ai-studio-chat"
+        },
+        {
+            "type": "path",
+            "url": "/home/lrjohnst/repositories/packages/laravel-ui-theme"
         }
     ]
 }

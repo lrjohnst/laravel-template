@@ -89,15 +89,15 @@
     "repositories": [
         {
             "type": "path",
-            "url": "/home/lrjohnst/repositories/packages/laravel-sso"
+            "url": "/srv/repositories/packages/laravel-sso"
         },
         {
             "type": "path",
-            "url": "/home/lrjohnst/repositories/packages/laravel-ai-studio-chat"
+            "url": "/srv/repositories/packages/laravel-ai-studio-chat"
         },
         {
             "type": "path",
-            "url": "/home/lrjohnst/repositories/packages/laravel-ui-theme"
+            "url": "/srv/repositories/packages/laravel-ui-theme"
         }
     ]
 }
